@@ -1,0 +1,243 @@
+2025-07-26 21:03:18 [main] INFO  TestBase - config.properties file loaded!
+2025-07-26 21:03:18 [main] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-26 21:03:23 [main] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-26 21:03:23 [main] INFO  ActionDriver - WebDriver instance is created
+2025-07-26 21:03:24 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:03:24 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:03:25 [main] INFO  ActionDriver - Element is clicked
+2025-07-26 21:03:25 [main] INFO  ActionDriver - Element is clicked
+2025-07-26 21:03:26 [main] INFO  ActionDriver - Element is clicked
+2025-07-26 21:03:27 [main] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-26 21:03:31 [main] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-26 21:03:31 [main] INFO  ActionDriver - WebDriver instance is created
+2025-07-26 21:03:32 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:03:32 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:03:32 [main] INFO  ActionDriver - Element is clicked
+2025-07-26 21:03:33 [main] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-26 21:03:38 [main] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-26 21:03:38 [main] INFO  ActionDriver - WebDriver instance is created
+2025-07-26 21:03:39 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:03:39 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:03:40 [main] INFO  ActionDriver - Element is clicked
+2025-07-26 21:05:07 [main] INFO  TestBase - config.properties file loaded!
+2025-07-26 21:05:08 [main] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-26 21:05:13 [main] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-26 21:05:13 [main] INFO  ActionDriver - WebDriver instance is created
+2025-07-26 21:05:13 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:05:13 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:05:13 [main] INFO  ActionDriver - Element is clicked
+2025-07-26 21:05:15 [main] INFO  ActionDriver - Element is clicked
+2025-07-26 21:05:16 [main] INFO  ActionDriver - Element is clicked
+2025-07-26 21:05:16 [main] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-26 21:05:21 [main] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-26 21:05:21 [main] INFO  ActionDriver - WebDriver instance is created
+2025-07-26 21:05:22 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:05:22 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:05:23 [main] INFO  ActionDriver - Element is clicked
+2025-07-26 21:05:23 [main] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-26 21:05:28 [main] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-26 21:05:28 [main] INFO  ActionDriver - WebDriver instance is created
+2025-07-26 21:05:28 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:05:28 [main] INFO  ActionDriver - Text is entered in Element
+2025-07-26 21:05:29 [main] INFO  ActionDriver - Element is clicked
+2025-07-27 10:22:36 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 10:22:36 [main] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 10:22:41 [main] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 10:22:41 [main] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 10:22:42 [main] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 10:22:42 [main] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 10:22:42 [main] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 10:22:43 [main] INFO  ActionDriver - Element is clicked--> Element with text: manda user
+2025-07-27 10:22:45 [main] INFO  ActionDriver - Element is clicked--> Element with text: Logout
+2025-07-27 10:22:45 [main] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 10:22:50 [main] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 10:22:50 [main] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 10:22:50 [main] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 10:22:50 [main] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 10:22:51 [main] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 10:22:52 [main] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 10:22:57 [main] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 10:22:57 [main] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 10:22:58 [main] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 10:22:58 [main] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 10:22:59 [main] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 10:36:29 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 10:36:29 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 10:36:29 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 10:36:29 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 10:36:29 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 10:36:37 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 10:36:37 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 10:36:38 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 10:36:38 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 10:36:38 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 10:36:38 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 10:36:39 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 10:36:40 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 10:36:40 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 10:36:40 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element not visible: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//*[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50225/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-27 10:36:40 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element not displayed: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//*[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50225/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-27 10:36:46 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 10:36:46 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 10:36:47 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 10:36:47 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 10:36:48 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 10:39:39 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element not visible: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50225/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-27 10:39:39 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Unable to enter text: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50225/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-27 10:39:39 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element not visible: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//*[@name='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50225/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-27 10:39:39 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Unable to enter text: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//*[@name='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50225/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-27 10:39:39 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element not clickable: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=css selector, value=button[type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50225/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-27 10:39:39 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Unable to clikc element: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=css selector, value=button[type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50225/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-27 10:39:39 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element not visible: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//*[contains(@class, 'oxd-alert-content-text')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50225/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-27 10:39:39 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element not displayed: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//*[contains(@class, 'oxd-alert-content-text')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50225/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-27 11:13:44 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 11:13:44 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 11:13:44 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 11:13:44 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 11:13:44 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 11:13:47 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 11:32:27 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 11:32:27 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 11:32:27 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 11:32:27 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 11:32:27 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 11:37:55 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 11:37:55 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 11:37:55 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 11:37:55 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 11:37:55 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 11:43:07 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 11:43:07 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 11:43:07 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 11:43:07 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 11:43:07 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 11:43:13 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:43:13 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 11:43:13 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - ActionDriver Initialized
+2025-07-27 11:43:13 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:43:13 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 11:43:13 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - ActionDriver Initialized
+2025-07-27 11:43:13 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:43:13 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 11:43:14 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 11:43:14 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:43:14 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 11:43:59 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 11:43:59 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 11:43:59 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 11:43:59 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 11:43:59 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 11:44:05 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - ActionDriver Initialized
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - ActionDriver Initialized
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - ActionDriver Initialized
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver is not initialized
+2025-07-27 11:44:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 11:44:07 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 11:44:07 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 11:44:07 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 11:44:07 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 11:44:08 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Asanov Asanovich
+2025-07-27 11:44:09 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with className: oxd-userdropdown-link
+2025-07-27 11:44:09 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 11:48:40 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 11:48:40 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 11:48:40 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 11:48:40 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 11:48:40 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 11:48:47 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:48:47 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 11:48:47 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - ActionDriver Initialized
+2025-07-27 11:48:47 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:48:48 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:48:48 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:52:41 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 11:52:41 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 11:52:41 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 11:52:41 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 11:52:41 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 11:52:49 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:52:49 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:53:05 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:53:05 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:53:25 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 11:53:31 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 11:53:31 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 11:53:31 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 11:53:31 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 11:54:06 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:54:06 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 11:54:06 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 11:54:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 11:54:06 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - ActionDriver Initialized
+2025-07-27 11:54:06 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - ActionDriver Initialized
+2025-07-27 11:54:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 11:54:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 11:54:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 11:54:40 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Asanov Asanovich
+2025-07-27 11:54:41 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Unable to clikc element: Error communicating with the remote browser. It may have died.
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [70fbc3e99a2a850d65c6c5c478ec8700, clickElement {id=f.E411C9F31341048C94363200C36F950A.d.132FC69D29250BFCF1B7136E34ECB5C1.e.46}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: /var/folders/s7/z85pv8nd6g1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57716}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57716/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (70fbc3e99a2a850d65c6c5c478ec8700)] -> xpath: //*[text()='Logout']]
+Session ID: 70fbc3e99a2a850d65c6c5c478ec8700
+2025-07-27 11:54:41 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
