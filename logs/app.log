@@ -241,3 +241,143 @@ Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 1
 Element: [[ChromeDriver: chrome on mac (70fbc3e99a2a850d65c6c5c478ec8700)] -> xpath: //*[text()='Logout']]
 Session ID: 70fbc3e99a2a850d65c6c5c478ec8700
 2025-07-27 11:54:41 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 12:18:06 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 12:18:06 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 12:18:06 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 12:18:06 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 12:18:14 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 12:18:14 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:18:14 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - ActionDriver Initialized
+2025-07-27 12:18:14 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 12:18:14 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 12:18:15 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 12:18:15 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 12:20:32 [main] INFO  TestBase - config.properties file loaded!
+2025-07-27 12:20:32 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: GetPageTitle
+2025-07-27 12:20:32 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - Driver setup for: GetPageUrl
+2025-07-27 12:20:32 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 12:20:38 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 12:20:38 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:20:38 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - ActionDriver Initialized
+2025-07-27 12:20:38 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - Driver setup for: LoginPageTest
+2025-07-27 12:20:39 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 12:20:39 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:20:39 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - ActionDriver Initialized
+2025-07-27 12:20:39 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - Driver setup for: HomePageTest
+2025-07-27 12:20:39 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximised
+2025-07-27 12:20:39 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 12:20:39 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 12:20:40 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 12:20:41 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Balancha Admin
+2025-07-27 12:20:42 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Logout
+2025-07-27 12:27:16 [main] INFO  TestBase - config.properties file loaded
+2025-07-27 12:28:32 [main] INFO  TestBase - config.properties file loaded
+2025-07-27 12:28:35 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:28:35 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:28:35 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:28:36 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:28:36 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:29:37 [main] INFO  TestBase - config.properties file loaded
+2025-07-27 12:29:39 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:29:39 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:29:39 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:29:44 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximized
+2025-07-27 12:29:44 [TestNG-test-OrangeHRMTest-2] TRACE TestBase - This is a Trace message
+2025-07-27 12:29:44 [TestNG-test-OrangeHRMTest-2] DEBUG TestBase - This is a debug message
+2025-07-27 12:29:44 [TestNG-test-OrangeHRMTest-2] WARN  TestBase - This is a warm message
+2025-07-27 12:29:44 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:29:44 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - ActionDriver initlialized for thread: 27
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - WebDriver Initialized and Browser Maximized
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-4] TRACE TestBase - This is a Trace message
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-4] DEBUG TestBase - This is a debug message
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-4] WARN  TestBase - This is a warm message
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - ActionDriver initlialized for thread: 29
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximized
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-1] TRACE TestBase - This is a Trace message
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-1] DEBUG TestBase - This is a debug message
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-1] WARN  TestBase - This is a warm message
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - ActionDriver initlialized for thread: 26
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver instance is closed.
+2025-07-27 12:29:45 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver instance is closed.
+2025-07-27 12:29:46 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:29:46 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:29:46 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 12:29:50 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver Initialized and Browser Maximized
+2025-07-27 12:29:50 [TestNG-test-OrangeHRMTest-3] TRACE TestBase - This is a Trace message
+2025-07-27 12:29:50 [TestNG-test-OrangeHRMTest-3] DEBUG TestBase - This is a debug message
+2025-07-27 12:29:50 [TestNG-test-OrangeHRMTest-3] WARN  TestBase - This is a warm message
+2025-07-27 12:29:50 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:29:50 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - ActionDriver initlialized for thread: 28
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - WebDriver instance is closed.
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximized
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-2] TRACE TestBase - This is a Trace message
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-2] DEBUG TestBase - This is a debug message
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-2] WARN  TestBase - This is a warm message
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - ActionDriver initlialized for thread: 27
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 12:29:51 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 12:29:52 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 12:29:52 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 12:29:52 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Balancha Admin
+2025-07-27 12:29:52 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver instance is closed.
+2025-07-27 12:29:53 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Logout
+2025-07-27 12:29:53 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver instance is closed.
+2025-07-27 12:37:09 [main] INFO  TestBase - config.properties file loaded
+2025-07-27 12:37:12 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:37:12 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:37:12 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver Initialized and Browser Maximized
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-2] TRACE TestBase - This is a Trace message
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-2] DEBUG TestBase - This is a debug message
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-2] WARN  TestBase - This is a warm message
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - ActionDriver initialized for thread: 28
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximized
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - WebDriver Initialized and Browser Maximized
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-1] TRACE TestBase - This is a Trace message
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-4] TRACE TestBase - This is a Trace message
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-1] DEBUG TestBase - This is a debug message
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-4] DEBUG TestBase - This is a debug message
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-1] WARN  TestBase - This is a warm message
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-4] WARN  TestBase - This is a warm message
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - ActionDriver initialized for thread: 27
+2025-07-27 12:37:17 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - ActionDriver initialized for thread: 30
+2025-07-27 12:37:18 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 12:37:18 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 12:37:18 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver instance is closed.
+2025-07-27 12:37:18 [TestNG-test-OrangeHRMTest-2] INFO  TestBase - WebDriver instance is closed.
+2025-07-27 12:37:19 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:37:19 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 12:37:19 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - ChromeDriver Instance is created.
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver Initialized and Browser Maximized
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-3] TRACE TestBase - This is a Trace message
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-3] DEBUG TestBase - This is a debug message
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-3] WARN  TestBase - This is a warm message
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - ActionDriver initialized for thread: 29
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-4] INFO  TestBase - WebDriver instance is closed.
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver Initialized and Browser Maximized
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-1] TRACE TestBase - This is a Trace message
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-1] DEBUG TestBase - This is a debug message
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-1] WARN  TestBase - This is a warm message
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - ActionDriver initialized for thread: 27
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Text entered in--> Element with name: username
+2025-07-27 12:37:24 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Text entered in--> Element with name: password
+2025-07-27 12:37:25 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 12:37:25 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Element is clicked--> Element with text: Login
+2025-07-27 12:37:25 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Prithvi Patil
+2025-07-27 12:37:26 [TestNG-test-OrangeHRMTest-1] INFO  TestBase - WebDriver instance is closed.
+2025-07-27 12:37:27 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is clicked--> Element with text: Logout
+2025-07-27 12:37:27 [TestNG-test-OrangeHRMTest-3] INFO  TestBase - WebDriver instance is closed.
